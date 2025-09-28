@@ -1,0 +1,6 @@
+Changelog:
+Tools and Armor no longer spawn with Trims in Loot
+Added Luck of the Sea Enchanted Book Recipe
+2 New Guide Pages (Sacs and Recovery Compass Rework)
+Fixed Issues with the Permission to Burn Advancement
+Reworked Ruined Portals Loot Table
