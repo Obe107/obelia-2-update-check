@@ -22,6 +22,16 @@
                 "curseforge": "https://www.curseforge.com/minecraft/modpacks/obelia-ii/"
             }
         }
+    },
+
+    {
+        "id": "Alpha 0.0.3",
+        "releasedAt": 1759153564702,
+        "promotions": {
+            "downloads": {
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/obelia-ii/"
+            }
+        }
     }
 ]
 }
