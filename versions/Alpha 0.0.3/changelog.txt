@@ -1,0 +1,12 @@
+Changelog:
+Fixed Koi Fish and Billhook Bass not fishing up as an entity
+Fixed Log Stripping & Tree Bark issues
+Disabled Crow dynamic sounds
+Dropped item particles now only display for non common items
+Added more Guide Entries
+Four Leaf Clover item can be found as a rare drop from common overworld mobs
+Added Bridging Mod
+Added Lure Enchanted Book Recipe
+Added Looting Enchanted Book Recipe
+Added Fortune Enchanted Book Recipe
+Added Quiver Recipe 
