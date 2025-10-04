@@ -1,0 +1,8 @@
+Changelog:
+Updated Mods
+Changed Max Dura of Armors
+Nerfed Four Leaf Cover Drop Rate
+Added Tree Harvester Mod
+Added Chorus Void Teleport Mod
+Added Fast Item Frames Mod
+Changed Efficiency Enchanted Book Recipe
